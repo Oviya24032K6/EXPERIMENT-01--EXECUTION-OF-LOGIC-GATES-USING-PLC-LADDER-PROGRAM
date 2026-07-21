@@ -50,14 +50,13 @@ XOR Gate:
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 # Truth Tables:
- ![alt text](<Screenshot 2026-07-17 115219.png>)
+<img width="704" height="238" alt="image" src="https://github.com/user-attachments/assets/1bfe04f0-b378-45b0-bc04-2701a4bb1860" />
+<img width="702" height="274" alt="image" src="https://github.com/user-attachments/assets/33e82980-fcb7-4b62-bde8-27cdd3251ca6" />
 
- ![alt text](<Screenshot 2026-07-17 115249.png>)
+<img width="703" height="278" alt="image" src="https://github.com/user-attachments/assets/06bea79e-c679-4783-9bf6-de046328259b" />
 
- ![alt text](<Screenshot 2026-07-17 115315.png>)
+ <img width="700" height="273" alt="image" src="https://github.com/user-attachments/assets/eb67d14d-2627-42d0-a6d2-0178d3d63f54" />
 
- ![alt text](<Screenshot 2026-07-17 115341.png>)
- 
 # Procedure:
 Setup the PLC Programming Environment:
 
