@@ -1,11 +1,11 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
- # NAME :
- # REGISTER NUMBER :
- # DEPARTMENT 
- # YEAR 
- # DATE 
+ ## NAME : OVIYA P
+ ## REGISTER NUMBER : 212223110033
+ ## DEPARTMENT : CSE(IOT)
+ ## YEAR : IV
+ ## DATE : 21/07/2026
 
  
 # Aim:
@@ -50,6 +50,13 @@ XOR Gate:
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 # Truth Tables:
+ ![alt text](<Screenshot 2026-07-17 115219.png>)
+
+ ![alt text](<Screenshot 2026-07-17 115249.png>)
+
+ ![alt text](<Screenshot 2026-07-17 115315.png>)
+
+ ![alt text](<Screenshot 2026-07-17 115341.png>)
  
 # Procedure:
 Setup the PLC Programming Environment:
@@ -82,7 +89,7 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 # SIMULATION RESULTS 
 
 
-#Results:
+# Results:
 The ladder logic programs for each logic gate were successfully implemented and simulated.
 The outputs observed matched the expected results as per the truth tables of the respective logic gates.
 This experiment demonstrates the effective use of PLCs in executing digital logic operations, which are fundamental to industrial control systems.
